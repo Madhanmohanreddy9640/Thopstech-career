@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Thopstech-career/static/css/main.f9c07f12.css",
+    "main.js": "/Thopstech-career/static/js/main.40a5d071.js",
+    "static/js/488.18e5ac46.chunk.js": "/Thopstech-career/static/js/488.18e5ac46.chunk.js",
+    "static/media/it2.png": "/Thopstech-career/static/media/it2.9590c052775e3c858b6a.png",
+    "static/media/Thops.png": "/Thopstech-career/static/media/Thops.aa5bf8363813b6bbed42.png",
+    "static/media/python2.jpg": "/Thopstech-career/static/media/python2.18933ca9e06ac395ec95.jpg",
+    "static/media/java1.jpeg": "/Thopstech-career/static/media/java1.d1a7892735ebb5346012.jpeg",
+    "static/media/action.png": "/Thopstech-career/static/media/action.6f9c72ebdb1d670dfd6f.png",
+    "static/media/apk.webp": "/Thopstech-career/static/media/apk.9858d2708793d0ed0ec3.webp",
+    "index.html": "/Thopstech-career/index.html",
+    "main.f9c07f12.css.map": "/Thopstech-career/static/css/main.f9c07f12.css.map",
+    "main.40a5d071.js.map": "/Thopstech-career/static/js/main.40a5d071.js.map",
+    "488.18e5ac46.chunk.js.map": "/Thopstech-career/static/js/488.18e5ac46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9c07f12.css",
+    "static/js/main.40a5d071.js"
+  ]
+}
