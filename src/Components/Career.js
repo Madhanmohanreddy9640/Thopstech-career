@@ -67,7 +67,7 @@ function CareerOpportunities() {
       <div className="numbers-speak">
         <div>
           <FaBriefcase />
-          <span>10k+ Placements</span>
+          <span>20k+ Placements</span>
         </div>
         <div>
           <FaBuilding />
